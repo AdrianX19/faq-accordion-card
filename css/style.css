@@ -150,4 +150,8 @@ input:checked~.answer {
     margin: 15px 0;
     font-size: 13px;
   }
+
+  label:hover {
+    color: #4B4C5F;
+  }
 }
